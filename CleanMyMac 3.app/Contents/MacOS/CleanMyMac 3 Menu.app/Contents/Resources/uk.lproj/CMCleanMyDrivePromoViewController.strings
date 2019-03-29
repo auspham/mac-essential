@@ -1,0 +1,41 @@
+/* Class = "NSTextFieldCell"; title = "If you wish to keep it clean from junk, just get our free CleanMyDrive companion app."; ObjectID = "3wD-a2-ceR"; */
+"3wD-a2-ceR.title" = "Якщо ви хочете очистити його від мотлоху, встановіть наш безкоштовний додаток CleanMyDrive.";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "6eQ-0j-hOK"; */
+"6eQ-0j-hOK.title" = "Скасувати";
+
+/* Class = "NSButtonCell"; title = "Learn More"; ObjectID = "7U4-bO-X5f"; */
+"7U4-bO-X5f.title" = "Дізнатися більше";
+
+/* Class = "NSTextFieldCell"; title = "available_NOTRANS"; ObjectID = "9xi-YD-Kk3"; */
+"9xi-YD-Kk3.title" = "available_NOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "It looks like you’ve connected a drive!"; ObjectID = "B6s-af-ymE"; */
+"B6s-af-ymE.title" = "Схоже, ви під'єднали накопичувач!";
+
+/* Class = "NSTextFieldCell"; title = "External drives get cluttered with junk,\njust like your Mac."; ObjectID = "FLB-NN-ViY"; */
+"FLB-NN-ViY.title" = "Зовнішні диски також збирають мотлох, як і ваш Мак.";
+
+/* Class = "NSTextFieldCell"; title = "It’s perfect for cleaning USB drives\nand SD cards."; ObjectID = "ZZa-Vc-h3a"; */
+"ZZa-Vc-h3a.title" = "Ідеально підходить для очищення USB-пристроїв та SD-карток.";
+
+/* Class = "NSButtonCell"; title = "Get CleanMyDrive"; ObjectID = "cBo-Hp-Ixb"; */
+"cBo-Hp-Ixb.title" = "Отримати CleanMyDrive";
+
+/* Class = "NSButtonCell"; title = "Get CleanMyDrive"; ObjectID = "fyS-2M-F8W"; */
+"fyS-2M-F8W.title" = "Отримати CleanMyDrive";
+
+/* Class = "NSTextFieldCell"; title = "Get CleanMyDrive 2, for free."; ObjectID = "htg-Oj-gHV"; */
+"htg-Oj-gHV.title" = "Отримайте CleanMyDrive 2, безкоштовно.";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "igZ-Dv-bTb"; */
+"igZ-Dv-bTb.title" = "Скасувати";
+
+/* Class = "NSTextFieldCell"; title = "Would you like to keep this drive clean?"; ObjectID = "oE6-hA-w4N"; */
+"oE6-hA-w4N.title" = "Ви хотіли б тримати цей диск в чистоті?";
+
+/* Class = "NSButtonCell"; title = "No, Thanks"; ObjectID = "vOf-bV-uJV"; */
+"vOf-bV-uJV.title" = "Ні, дякую";
+
+/* Class = "NSTextFieldCell"; title = "name_NOTRANS"; ObjectID = "y3s-ZB-FlL"; */
+"y3s-ZB-FlL.title" = "name_NOTRANS";

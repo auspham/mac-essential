@@ -1,0 +1,41 @@
+/* Class = "NSTextFieldCell"; title = "If you wish to keep it clean from junk, just get our free CleanMyDrive companion app."; ObjectID = "3wD-a2-ceR"; */
+"3wD-a2-ceR.title" = "Pobierz nasz bezpłatny program CleanMyDrive jeśli chcesz zachować porządek na tym dysku.";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "6eQ-0j-hOK"; */
+"6eQ-0j-hOK.title" = "Anuluj";
+
+/* Class = "NSButtonCell"; title = "Learn More"; ObjectID = "7U4-bO-X5f"; */
+"7U4-bO-X5f.title" = "Więcej";
+
+/* Class = "NSTextFieldCell"; title = "available_NOTRANS"; ObjectID = "9xi-YD-Kk3"; */
+"9xi-YD-Kk3.title" = "available_NOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "It looks like you’ve connected a drive!"; ObjectID = "B6s-af-ymE"; */
+"B6s-af-ymE.title" = "Wygląda na to, że podłączyłeś dysk!";
+
+/* Class = "NSTextFieldCell"; title = "External drives get cluttered with junk,\njust like your Mac."; ObjectID = "FLB-NN-ViY"; */
+"FLB-NN-ViY.title" = "Zewnętrzne dyski potrafią zaśmiecać się, podobnie jak Twój Mac.";
+
+/* Class = "NSTextFieldCell"; title = "It’s perfect for cleaning USB drives\nand SD cards."; ObjectID = "ZZa-Vc-h3a"; */
+"ZZa-Vc-h3a.title" = "Program doskonale czyści dyski USB i karty SD.";
+
+/* Class = "NSButtonCell"; title = "Get CleanMyDrive"; ObjectID = "cBo-Hp-Ixb"; */
+"cBo-Hp-Ixb.title" = "Pobierz CleanMyDrive";
+
+/* Class = "NSButtonCell"; title = "Get CleanMyDrive"; ObjectID = "fyS-2M-F8W"; */
+"fyS-2M-F8W.title" = "Pobierz CleanMyDrive";
+
+/* Class = "NSTextFieldCell"; title = "Get CleanMyDrive 2, for free."; ObjectID = "htg-Oj-gHV"; */
+"htg-Oj-gHV.title" = "Pobierz CleanMyDrive 2 za darmo.";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "igZ-Dv-bTb"; */
+"igZ-Dv-bTb.title" = "Anuluj";
+
+/* Class = "NSTextFieldCell"; title = "Would you like to keep this drive clean?"; ObjectID = "oE6-hA-w4N"; */
+"oE6-hA-w4N.title" = "Czy chcesz zachować porządek na tym dysku?";
+
+/* Class = "NSButtonCell"; title = "No, Thanks"; ObjectID = "vOf-bV-uJV"; */
+"vOf-bV-uJV.title" = "Nie, dziękuję";
+
+/* Class = "NSTextFieldCell"; title = "name_NOTRANS"; ObjectID = "y3s-ZB-FlL"; */
+"y3s-ZB-FlL.title" = "name_NOTRANS";

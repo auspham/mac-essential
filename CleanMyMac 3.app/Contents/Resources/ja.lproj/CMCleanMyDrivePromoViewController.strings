@@ -1,0 +1,41 @@
+/* Class = "NSTextFieldCell"; title = "If you wish to keep it clean from junk, just get our free CleanMyDrive companion app."; ObjectID = "3wD-a2-ceR"; */
+"3wD-a2-ceR.title" = "ジャンクのないクリーンなコンディションを維持するために、CleanMyDrive の無料コンパニオン App をご利用ください。";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "6eQ-0j-hOK"; */
+"6eQ-0j-hOK.title" = "キャンセル";
+
+/* Class = "NSButtonCell"; title = "Learn More"; ObjectID = "7U4-bO-X5f"; */
+"7U4-bO-X5f.title" = "詳しい情報";
+
+/* Class = "NSTextFieldCell"; title = "available_NOTRANS"; ObjectID = "9xi-YD-Kk3"; */
+"9xi-YD-Kk3.title" = "available_NOTRANS";
+
+/* Class = "NSTextFieldCell"; title = "It looks like you’ve connected a drive!"; ObjectID = "B6s-af-ymE"; */
+"B6s-af-ymE.title" = "すでにドライブに接続されているようです。";
+
+/* Class = "NSTextFieldCell"; title = "External drives get cluttered with junk,\njust like your Mac."; ObjectID = "FLB-NN-ViY"; */
+"FLB-NN-ViY.title" = "外部ドライブもジャンクで雑然となります。 Mac のようにね。";
+
+/* Class = "NSTextFieldCell"; title = "It’s perfect for cleaning USB drives\nand SD cards."; ObjectID = "ZZa-Vc-h3a"; */
+"ZZa-Vc-h3a.title" = "USB ドライブと SD カードの クリーンアップに最適です。";
+
+/* Class = "NSButtonCell"; title = "Get CleanMyDrive"; ObjectID = "cBo-Hp-Ixb"; */
+"cBo-Hp-Ixb.title" = "CleanMyDrive を入手";
+
+/* Class = "NSButtonCell"; title = "Get CleanMyDrive"; ObjectID = "fyS-2M-F8W"; */
+"fyS-2M-F8W.title" = "CleanMyDrive を入手";
+
+/* Class = "NSTextFieldCell"; title = "Get CleanMyDrive 2, for free."; ObjectID = "htg-Oj-gHV"; */
+"htg-Oj-gHV.title" = "CleanMyDrive 2 を無料で入手。";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "igZ-Dv-bTb"; */
+"igZ-Dv-bTb.title" = "キャンセル";
+
+/* Class = "NSTextFieldCell"; title = "Would you like to keep this drive clean?"; ObjectID = "oE6-hA-w4N"; */
+"oE6-hA-w4N.title" = "このドライブをクリーンな状態に維持したいですか。";
+
+/* Class = "NSButtonCell"; title = "No, Thanks"; ObjectID = "vOf-bV-uJV"; */
+"vOf-bV-uJV.title" = "いいえ、結構です。";
+
+/* Class = "NSTextFieldCell"; title = "name_NOTRANS"; ObjectID = "y3s-ZB-FlL"; */
+"y3s-ZB-FlL.title" = "name_NOTRANS";
